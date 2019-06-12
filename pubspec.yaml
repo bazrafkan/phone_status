@@ -1,8 +1,8 @@
 name: phone_status
 description: A new Flutter plugin.
-version: 0.0.1
+version: 0.0.2
 author: Bazrafkan<bazrafkan.mb@gmail.com>
-homepage: https://github.com/Apurv2017/PhoneCallState
+homepage: https://github.com/bazrafkan/phone_status
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
